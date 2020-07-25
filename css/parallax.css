@@ -47,11 +47,12 @@ div {
   margin-top: 0;
 }
 h1 {
-  color: #f4f6ff;
+  color: #ffcb74;
   margin: 0 0;
   text-align: center;
   /* margin-top: 300px; */
   opacity: 0;
+  font-stretch: 30px;
 }
 div:hover h1 {
   opacity: 1;
@@ -59,4 +60,8 @@ div:hover h1 {
 
 .captions {
   margin-top: 0px;
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 500px;
+  font-size: 55px;
 }
